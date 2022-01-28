@@ -30,7 +30,7 @@ def get_filters():
         month = input("Enter the name of the month to filter by, or 'all' to apply no month filter: ").lower()
         months = ['january', 'february', 'march', 'april', 'may', 'june']
         if month != 'all' and month not in months:
-            print("I'm sorry. That's not 'all' or a month from January to June. Try again")
+            print("That's not 'all' or a month from January to June. Try again")
         else:
             break
 
