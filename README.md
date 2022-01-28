@@ -4,7 +4,7 @@
 The bikeshare_3.py file was created in December 2022. This repository and README file were created on 28 January 2022.
 
 ### Project Title
-Bike share python project
+Bike share python project :bike:
 
 ### Description
 This project provides an interactive Python environment for bike share data for the first six months of 2017 for Chicago, New York City and Washington DC.
