@@ -10,9 +10,9 @@ Bike share python project
 This project provides an interactive Python environment for bike share data for the first six months of 2017 for Chicago, New York City and Washington DC.
 
 ### Files used
-chicago.csv
-new_york_city.csv
-washington.csv
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
 ### Credits
 This repository was forked from https://github.com/udacity/pdsnd_github
